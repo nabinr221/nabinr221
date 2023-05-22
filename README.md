@@ -1,11 +1,11 @@
 ### Hi I'm Nabin R. Chaudhary 👋
-<div id="header" align="center">
+<div><div><h1 align="left">Hi 👋, I'm Nabin R. Chaudhary</h1>
+<h3 align="left">A passionate full stack developer (JavaScript) from Nepal</h3>
+</div> <div id="header" align="right">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+ </div>
 
-
-<h1 align="center">Hi 👋, I'm Nabin R. Chaudhary</h1>
-<h3 align="center">A passionate full stack developer (JavaScript) from Nepal</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabinr211" alt="nabinr211" /></a> </p>
 
